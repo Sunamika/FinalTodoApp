@@ -1,0 +1,19 @@
+#final to-do app
+<h3><Final android assignment</h3>
+<p>Features of the app</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
+<p>Simple Todo Application</p>
